@@ -1,0 +1,76 @@
+body{
+    background-color: skyblue;
+}
+
+#header{
+    font-size: 50px;
+    text-align: center;
+    font-weight: bold;
+    font-family: monospace;
+    color: steelblue;
+    background-color: lavender;
+
+}
+
+div.box{
+    margin-top: 5%;
+    margin-left: 40%;
+}
+
+#display{
+    width: 20%;
+    height: 5%;
+    text-align: center;
+    font-size: 200%;
+    padding: 5%;
+}
+
+input{
+    width: 30%;
+    height: 5%;
+    float: left;
+    font-size: 20px;
+}
+
+#retry{
+    background-color: grey;
+    border: 2px solid black;
+    cursor: pointer;
+    float: left;
+    height: 2%;
+    margin: 7% 0% 0% -30%;
+    padding: 1%;
+    text-align: center;
+    width: 10%;
+}
+
+#cls{
+    background-color: grey;
+    border: 2px solid black;
+    cursor: pointer;
+    float: left;
+    height: 2%;
+    margin: 7% 0% 0% -13%;
+    padding: 1%;
+    text-align: center;
+    width: 10%;
+}
+
+#submit{
+    background-color: rgb(163, 133, 133);
+    border: 2px solid black;
+    cursor: pointer;
+    float: left;
+    height: 3%;
+    margin: 12% 0% 0% -27%;
+    padding: 1%;
+    text-align: center;
+    width: 20%;
+}
+
+#result{
+    font-size: 40px;
+    font-weight: bold;
+    margin-top: 25%;
+}
+

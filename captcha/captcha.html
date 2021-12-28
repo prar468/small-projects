@@ -1,0 +1,20 @@
+<html>
+    <head>
+        <script src="script.js"></script>
+        <link href="style.css" rel="stylesheet" type="text/css"/>
+    </head>
+
+<body onload="setCap()">
+    <div id="header">CAPTCHA</div>
+    <div class="box">
+        <div id="display"></div>
+        <input type="text" id="inpt" value="" onchange="enteredValue(this.value)"/>
+        <div id="retry" onclick="setCap()">Retry</div>
+        <div id="cls" onclick="cls()">Clear</div>
+        <div id="submit" onclick="checkCap()">Submit</div>
+        <div id="result"></div>
+    </div>
+    
+
+</body>
+</html>
