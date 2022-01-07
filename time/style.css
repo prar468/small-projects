@@ -1,0 +1,50 @@
+body{
+    background-color: lightgray; 
+    background-image: url("clock.jpg");
+    background-repeat: no-repeat;
+    background-size: auto;
+    background-size: 100%;
+}
+
+div.boxes{
+    color: goldenrod;
+    float: left;
+    font-family: Georgia, 'Times New Roman', Times, serif;
+    font-size: 30px;
+    height: 15%;
+    padding: 4%;
+    text-align: center;
+    width: 50%;
+}
+
+div#india{
+    background-color:rgb(31, 29, 29);
+    border: 4px double goldenrod;
+    border-radius: 30%;
+    margin: 6% 0 7% 5%;
+    padding: 2%;
+}
+
+div#usa{
+    background-color: rgb(24, 19, 19);
+    border: 4px double goldenrod;
+    border-radius: 30%;
+    margin: 6% 0 7% 5%;
+    padding: 2%;
+}
+
+div#europe{
+    background-color: rgb(31, 29, 29);
+    border: 4px double goldenrod;
+    border-radius: 30%;
+    margin: 6% 0 7% 5%;
+    padding: 2%;
+}
+
+div#aus{
+    background-color: rgb(24, 19, 19);
+    border: 4px double goldenrod;
+    border-radius: 30%;
+    margin: 6% 0 7% 6%;
+    padding: 2%;
+}
