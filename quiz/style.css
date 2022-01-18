@@ -1,0 +1,53 @@
+body{
+    background-color: cornflowerblue;
+    cursor:auto;
+}
+
+#header{
+    background-color:rgb(59, 178, 224) ;
+    color: navy;
+    font-size: 70px;
+    text-align: center;
+}
+
+#quesno{
+    border: 8%;
+    color: navy;
+    font-size: 30px;
+    float:left;
+    padding: 2%;
+    text-align: center;
+}
+
+#ques{
+    border: 8%;
+    color:navy;
+    font-size: 30px;
+    float:left;
+    padding: 3%;
+    text-align: center;
+}
+
+#opt{
+    border: 3%;
+    color: navy;
+    font-size: 30px;
+    float: left;
+    padding: 2%;
+    text-align: center;
+}
+
+.clear{ 
+    clear:both;
+}
+
+#next{
+    border-top: 5%;
+    color: pink;
+    font-size: 30px;
+    float: left;
+    padding: 2%;
+}
+
+
+

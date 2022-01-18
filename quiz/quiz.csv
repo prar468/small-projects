@@ -1,0 +1,8 @@
+QuesID,Question,A,B,C,D,Answer
+1,Which HTML element defines title of the document?,head,meta,title,html,title
+2,Correct HTML tag for largest heading ,heading,h1,h6,head,h1
+3,Correct HTML element for inserting line break?,br,lb,break,n,br
+4,HTML element to define important text ,important,strong,bold,i,strong
+5,HTML element to define emphasized text ,i,italics,em,emp,em
+6,Which character is used to indicate an end tag,^,/,*,\,/
+7,How can you make a numbered list?,ol,ul,list,dl,ol
